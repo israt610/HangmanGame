@@ -1,0 +1,10 @@
+hangman
+cow
+dog
+cat
+human
+crow
+fox
+hen
+stop
+data
